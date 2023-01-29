@@ -51,6 +51,7 @@ img {
     padding: 10px;
 }
 
+
 /* CSS FLEXBOX 1 */
 
 .flex {
@@ -64,6 +65,7 @@ img {
     flex: 1 1 200px;
     margin: 10px;
 }
+
 
 /*CSS GRID 1*/
 
@@ -106,6 +108,7 @@ img {
     }
 }
 
+
 /* CSS Grid 2 */
 
 .grid2 {
@@ -136,6 +139,7 @@ img {
         margin: 0 10px;
     }
 }
+
 
 /* CSS Grid 3 */
 
